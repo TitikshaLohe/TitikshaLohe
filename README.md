@@ -6,7 +6,7 @@ _✨Data Analyst | Dashboard Storyteller | Excel & Power BI Enthusiast_
 
 ##  About Me
 
-I’m **Titiksha**, a passionate data analyst with an MBA in Finance, a knack for transforming raw data into strategic insights, 
+I’m **Titiksha**, a passionate data analyst with a knack for transforming raw data into strategic insights, 
 and a growing portfolio in visualisation and analytics. 
 
 - Skilled in Excel (Pivot Tables, Power Query), Power BI, and SQL  
