@@ -16,10 +16,10 @@ and a growing portfolio in visualisation and analytics.
 ---
 
 ##  Featured Projects
-#Clothing Brand Sales Dashboard
-#IPL Analytics (Resume Challenge, Codebasics)
-#HR Data Analysis Dashboard
-#[See more Projects](https://mavenanalytics.io/profile/d85113b0-b0b1-70ff-9147-0333132aac6b)  
+- Clothing Brand Sales Dashboard
+- IPL Analytics (Resume Challenge, Codebasics)
+- HR Data Analysis Dashboard
+- [See more Projects](https://mavenanalytics.io/profile/d85113b0-b0b1-70ff-9147-0333132aac6b)  
 
 ---
 
